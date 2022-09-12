@@ -75,3 +75,4 @@ void loop() {
     }
     
     }
+//Motor is getting out of control because our hand gets out of control sometimes(like index zero in dex zero index zero....................shaking of fingers that's why............)
